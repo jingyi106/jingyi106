@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, this is Jingyi 👋
 
-<!--
-**jingyi106/jingyi106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  I am well equipped with data mining, machine learning, A/B testing, Python, SQL, R and Tableau. I accumulated related experience during my internship in sports organization, securities company and banking where I applied data science methods to help reach marketing solutions. I like the process of meeting different people, acknowledging their demands and leveraging data analytical skills to tailor a solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I'm pursuing my Master’s degree in business Intelligence and Data Analytics at Carnegie Mellon University.
+- 🌱 I’m passionate about data science and its application in marketing, healthcare and production functionality.
+- 👯 Python, SQL, R, Tableau, Machine learning, Deep Learning, NLP, A/B testing
+- 🤔 I’m looking Data Science Analyst full-time position starting from January 2023.
+- ⚡ Fun fact: Big fan of tennnis! I got an incredible change to work as a data analyst intern for US Open this summer!
+
+- 💬 LinkedIn: https://www.linkedin.com/in/jingyiran/
+- 📫 Email: jingyiran1@gmail.com
+
 -->
