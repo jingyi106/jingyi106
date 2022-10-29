@@ -12,4 +12,9 @@ I'm pursuing a Master’s degree in business Intelligence and Data Analytics at 
 - 💬 LinkedIn: https://www.linkedin.com/in/jingyiran/
 - 📫 Email: jingyiran1@gmail.com
 
+I shared some of my interesting projects via Github, please check my repositories to get details of each project. 
+In addition to coding, I'm also interested in telling stories via data visualization. 
+A story about population aging : https://carnegiemellon.shorthandstories.com/Population-Aging/index.html
+My Tableau public account: https://public.tableau.com/app/profile/jingyi.ran8005
+
 -->
