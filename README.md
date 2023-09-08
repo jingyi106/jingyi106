@@ -1,12 +1,12 @@
 ### Hi there, this is Jingyi 👋
 
-I'm pursuing a Master’s degree in business Intelligence and Data Analytics at Carnegie Mellon University. I'm passionate towards data science and its application in marketing, customer behavior, healthcare and product functionality. I accumulated related experience during my internship in sports organization, securities company and banking where I applied data science methods to help reach marketing solutions. I like the process of meeting different people, acknowledging their demands and leveraging data analytical skills to tailor a solution.
+I'm an enthusiastic data person with passion in data science, business intelligence, marketing science and data experience. I am well equipped with Python/PySpark, SQL, Tableau, R, Machine Learning, A/B Testing and familiar with different environments such as Snowflake and Databricks. I worked as an associate consultant in data & analytics practice in my early career and I love the process of meeting different people, acknowledging their demands and leveraging data analytical skills to tailor a solution.
 
 
 ### About me
-- 🔭 Background: Engineering background but with a passion towards business and social science
-- 🌱 Job Hunter: Seeking for data science analyst full-time positions starting from January 2023
-- 👯 Skills: Python, SQL, R, Tableau, Machine learning, Deep Learning, NLP, A/B testing and etc.
+- 🔭 Background: Engineering background but with a passion towards business and social science. Worked as a Data & Analytics associate consultant in my early career. 
+- 🌱 Job Hunter: Seeking for data science analyst full-time positions
+- 👯 Skills: Python, PySpark, SQL, R, Tableau, Snowflake, Databricks, Machine learning, Deep Learning, NLP, A/B testing and etc.
 - ⚡ Fun fact: Big fan of tennnis and got an incredible change to work as a data analyst intern for US Open this summer!
 
 - 💬 LinkedIn: https://www.linkedin.com/in/jingyiran/
