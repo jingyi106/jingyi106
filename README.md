@@ -17,6 +17,4 @@ In addition to coding, I'm also interested in telling stories via data visualiza
 
 📫 A story about population aging : https://carnegiemellon.shorthandstories.com/Population-Aging/index.html
 
-📫 My Tableau public account: https://public.tableau.com/app/profile/jingyi.ran8005
-
 -->
